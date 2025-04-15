@@ -1,0 +1,17 @@
+{
+    "total_count": 54,
+    "results": [
+        {
+            "bahnhof_gare_stazione": "Basel SBB",
+            "unite": "DP/jour",
+            "jahr": "2024",
+            "anzahl_bahnhofbenutzer": 135500
+        },
+        {
+            "bahnhof_gare_stazione": "Lausanne",
+            "unite": "DP/jour ouvré",
+            "jahr": "2024",
+            "anzahl_bahnhofbenutzer": 127900
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "total_count": 257459,
+    "results": [
+        {
+            "title": "Einschränkung Lenzburg",
+            "link": "https://rss.sbb.hafas.cloud/bin/help.exe/dn?tpl=showmap_external&messageID=805260&hMap=false&",
+            "description": "Der Bahnverkehr im Bahnhof Lenzburg ist eingeschränkt.Der Grund dafür sind ausserordentliche Bauarbeiten.Betroffen sind die Linien IC5, IR35, RE und S23.Es sind Verspätungen, Ausfälle und Umleitungen zu erwarten.Wir werden so rasch als möglich weiter informieren.",
+            "published": "2025-02-03T05:16:35+00:00",
+            "author": "SBB",
+            "validitybegin": "2025-02-03T05:52:00+00:00",
+            "validityend": "2025-02-03T08:52:00+00:00",
+            "description_html": "Der Bahnverkehr im Bahnhof Lenzburg ist eingeschränkt.<br />Der Grund dafür sind ausserordentliche Bauarbeiten.<br />Betroffen sind die Linien IC5, IR35, RE und S23.<br />Es sind Verspätungen, Ausfälle und Umleitungen zu erwarten.<br />Wir werden so rasch als möglich weiter informieren."
+        },
+        {
+            "title": "Unterbruch Kerzers - Murten/Morat",
+            "link": "https://rss.sbb.hafas.cloud/bin/help.exe/dn?tpl=showmap_external&messageID=760378&hMap=false&",
+            "description": "Der Bahnverkehr zwischen Kerzers und Murten/Morat ist unterbrochen.Der Grund dafür sind Bauarbeiten.Die Einschränkung dauert von 22.04.2025 bis 23.05.2025 jeweils zwischen 20:43 und 04:00, immer Mo., Di., Mi., Do., So.Betroffen sind die Linien S5, S52.Es gibt Zugsausfälle und Fahrplanänderungen.Die Reisenden benützen das ErsatzangebotWir empfehlen, kurz vor jeder Fahrt den Online-Fahrplan zu konsultieren.",
+            "published": "2025-02-03T13:37:42+00:00",
+            "author": "SBB",
+            "validitybegin": "2025-05-21T20:43:00+00:00",
+            "validityend": "2025-05-22T04:00:00+00:00",
+            "description_html": "Der Bahnverkehr zwischen Kerzers und Murten/Morat ist unterbrochen.<br />Der Grund dafür sind Bauarbeiten.<br />Die Einschränkung dauert von 22.04.2025 bis 23.05.2025 jeweils zwischen 20:43 und 04:00, immer Mo., Di., Mi., Do., So.<br />Betroffen sind die Linien S5, S52.<br />Es gibt Zugsausfälle und Fahrplanänderungen.<br />Die Reisenden benützen das Ersatzangebot<br />Wir empfehlen, kurz vor jeder Fahrt den Online-Fahrplan zu konsultieren."
+        }
+    ]
+}

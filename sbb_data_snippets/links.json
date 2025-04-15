@@ -1,0 +1,11 @@
+[
+    {
+        "zugzahlen": "https://data.sbb.ch/explore/dataset/zugzahlen/information/?sort=trassenkilometer&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJzdHJlY2tlX251bW1lciIsImNvbG9yIjoicmFuZ2UtQWNjZW50Iiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWV9XSwieEF4aXMiOiJqYWhyIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoieWVhciIsInNvcnQiOiIiLCJzZXJpZXNCcmVha2Rvd24iOiJzdHJlY2tlX2JlemVpY2hudW5nIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJ6dWd6YWhsZW4iLCJvcHRpb25zIjp7InNvcnQiOiJ0cmFzc2Vua2lsb21ldGVyIiwicmVmaW5lLnN0cmVja2VfYmV6ZWljaG51bmciOiJHZW5cdTAwRTh2ZSBBXHUwMEU5cm9wb3J0IC0gTGF1c2FubmUiLCJyZWZpbmUuamFociI6IjIwMjQifX19XSwidGltZXNjYWxlIjoieWVhciIsImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&location=11,46.53052,6.28315&basemap=00c4d6",
+        "generalabo-halbtax-mit-bevolkerungsdaten": "https://data.sbb.ch/explore/dataset/generalabo-halbtax-mit-bevolkerungsdaten/information/",
+        "zugzahlen_pro_monat_gemischt_personen_güterzüge_nur2024": "https://data.sbb.ch/explore/dataset/zugzahlen_pro_monat/table/?sort=reihung",
+        "passagierfrequenz_ein_aussteigende": "https://data.sbb.ch/explore/dataset/passagierfrequenz/information/?disjunctive.kt_ct_cantone&disjunctive.isb_gi",
+        "rail-traffic-information": "https://data.sbb.ch/explore/dataset/rail-traffic-information/information/",
+        "anzahl-sbb-bahnhofbenutzer": "https://data.sbb.ch/explore/dataset/anzahl-sbb-bahnhofbenutzer/information/",
+        "actual_dep_arr_data": "https://opendata.swiss/en/dataset/ist-daten-actual-data"
+    }
+]

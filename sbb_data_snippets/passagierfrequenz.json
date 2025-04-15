@@ -1,0 +1,47 @@
+{
+    "total_count": 3479,
+    "results": [
+        {
+            "code_codice": "AA",
+            "uic": 8502113,
+            "bahnhof_gare_stazione": "Aarau",
+            "kt_ct_cantone": "AG",
+            "isb_gi": "SBB",
+            "jahr_annee_anno": "2022",
+            "dtv_tjm_tgm": 33400,
+            "dwv_tmjo_tfm": 38200,
+            "dnwv_tmjno_tmgnl": 22000,
+            "evu_ef_itf": "SBB, SOB",
+            "bemerkungen": "Ohne AVA.",
+            "remarques": "Sans AVA.",
+            "note": "Senza AVA.",
+            "remarks": "Without AVA.",
+            "geopos": {
+                "lon": 8.051273718700699,
+                "lat": 47.39135951416977
+            },
+            "lod": "http://lod.opentransportdata.swiss/didok/didok85"
+        },
+        {
+            "code_codice": "AAT",
+            "uic": 8503124,
+            "bahnhof_gare_stazione": "Aathal",
+            "kt_ct_cantone": "ZH",
+            "isb_gi": "SBB",
+            "jahr_annee_anno": "2023",
+            "dtv_tjm_tgm": 770,
+            "dwv_tmjo_tfm": 830,
+            "dnwv_tmjno_tmgnl": 640,
+            "evu_ef_itf": "SBB",
+            "bemerkungen": null,
+            "remarques": null,
+            "note": null,
+            "remarks": null,
+            "geopos": {
+                "lon": 8.765625135347072,
+                "lat": 47.3359591338364
+            },
+            "lod": "http://lod.opentransportdata.swiss/didok/didok85"
+        }
+    ]
+}

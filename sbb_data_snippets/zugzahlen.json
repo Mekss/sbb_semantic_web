@@ -1,0 +1,99 @@
+{
+    "total_count": 142,
+    "results": [
+        {
+            "pid_abschnitt": "SBB_CHY_VEN",
+            "isb": "SBB",
+            "strecke_nummer": 1,
+            "strecke_bezeichnung": "Genève Aéroport - Lausanne",
+            "strecke_art": "STRECKE",
+            "bp_von_abschnitt": "CHY",
+            "bp_von_abschnitt_bezeichnung": "Chambésy",
+            "bp_bis_abschnitt": "VEN",
+            "bp_bis_abschnitt_bezeichnung": "Vengeron (diag)",
+            "in_richtung": "False",
+            "geschaeftscode": "Personenverkehr",
+            "jahr": "2024",
+            "anzahl_zuege": 74454,
+            "gesamtbelastung_bruttotonnen": 29161631,
+            "trassenkilometer": 30823.9560000018,
+            "didok": 1020,
+            "bpuic": 8501018,
+            "bezeichnung_offiziell": "Chambésy",
+            "lod": "http://lod.opentransportdata.swiss/didok/didok85",
+            "geopos": "46.24610356514406, 6.1473597602854895",
+            "sloid": "ch:1:sloid:1020",
+            "tu_nummer": 11,
+            "geopos_von": "6.147304320702687, 46.24094485508302",
+            "geopos_bis": "6.1473597602854895, 46.24610356514406",
+            "geoshape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            6.147304320702687,
+                            46.24094485508302
+                        ],
+                        [
+                            6.1473597602854895,
+                            46.24610356514406
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 6.147332040494089,
+                "lat": 46.24352421011354
+            }
+        },
+        {
+            "pid_abschnitt": "SBB_COP_FOU",
+            "isb": "SBB",
+            "strecke_nummer": 1,
+            "strecke_bezeichnung": "Genève Aéroport - Lausanne",
+            "strecke_art": "STRECKE",
+            "bp_von_abschnitt": "COP",
+            "bp_von_abschnitt_bezeichnung": "Coppet",
+            "bp_bis_abschnitt": "FOU",
+            "bp_bis_abschnitt_bezeichnung": "Founex",
+            "in_richtung": "False",
+            "geschaeftscode": "Personenverkehr",
+            "jahr": "2024",
+            "anzahl_zuege": 48595,
+            "gesamtbelastung_bruttotonnen": 24346114,
+            "trassenkilometer": 105402.554999998,
+            "didok": 1023,
+            "bpuic": 8501016,
+            "bezeichnung_offiziell": "Coppet",
+            "lod": "http://lod.opentransportdata.swiss/didok/didok85",
+            "geopos": "46.32878361239696, 6.194383368544965",
+            "sloid": "ch:1:sloid:1023",
+            "tu_nummer": 11,
+            "geopos_von": "6.187827380950365, 46.31739357074577",
+            "geopos_bis": "6.194383368544965, 46.32878361239696",
+            "geoshape": {
+                "type": "Feature",
+                "geometry": {
+                    "coordinates": [
+                        [
+                            6.187827380950365,
+                            46.31739357074577
+                        ],
+                        [
+                            6.194383368544965,
+                            46.32878361239696
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {}
+            },
+            "geo_point_2d": {
+                "lon": 6.191105374747664,
+                "lat": 46.32308859157136
+            }
+        }
+    ]
+}
